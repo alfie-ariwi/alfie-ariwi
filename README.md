@@ -1,5 +1,10 @@
-### Hi there 👋
+## 👋🏾 Hi, My Name is Alfie ...
+### ... and I am learning web development.
 
+- 🔭 I’m currently working on [`freeCodeCamp(🔥) Responsive Web Design Certification`](https://www.freecodecamp.org/learn/responsive-web-design/)
+- 📫 Reach me at [@AlfieCodes](https://twitter.com/AlfieCodes)
+
+#### Coming Soon: Coding LiveStreams
 <!--
 **alfie-ariwi/alfie-ariwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
