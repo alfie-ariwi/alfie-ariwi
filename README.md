@@ -1,7 +1,8 @@
 ## 👋🏾 Hi, My Name is Alfie ...
 ### ... and I am learning web development.
 
-- 🔭 I’m currently working on [`freeCodeCamp(🔥) Responsive Web Design Certification`](https://www.freecodecamp.org/learn/responsive-web-design/)
+- 🔭 I’m ~~currently working on~~ taking a break from [`freeCodeCamp(🔥) Responsive Web Design Certification`](https://www.freecodecamp.org/learn/responsive-web-design/)...
+- 🤓 ... instead I've linked up with the folks over [@TheOdinProject](https://twitter.com/TheOdinProject)
 - 📫 Reach me at [@AlfieCodes](https://twitter.com/AlfieCodes)
 
 #### Coming Soon: Coding LiveStreams
